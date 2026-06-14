@@ -1,0 +1,19 @@
+{
+  "name": "Aday Takip Sistemi",
+  "short_name": "Aday Takip",
+  "description": "Offline çalışan aday takip sistemi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4fb",
+  "theme_color": "#49166f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
